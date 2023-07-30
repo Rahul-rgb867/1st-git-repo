@@ -2,6 +2,8 @@ this is test repo file
 lets check it on system
 
 editing the file now
-lets check it on the remote system
+lets check it on the local system
 
-lets modify this file from remeote system and check it from github
+lets modify this file from local system and check it from github
+
+just edited remote with local in this file
